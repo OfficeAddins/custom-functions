@@ -4,7 +4,7 @@ Excel Office.JS custom function example
 Step by Step Tutorial:
 https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.htm
 
-<img src="screenshot.png"> 
+<img src="/images/screenshot.png"> 
 
 
 <B>Help Link Problem</B>
@@ -17,7 +17,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Select (Formulas > Insert Function)
 
-<img src="screenshot.png"> 
+<img src="images/insert-function-dialog.png"> 
 
 *) Select the "CUSTOM.ADDFUNCTION" function
 
