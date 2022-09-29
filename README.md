@@ -1,4 +1,4 @@
-# customfunctions
+# custom-functions
 Excel Office.JS custom function example 
 
 Step by Step Tutorial:
