@@ -29,7 +29,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) The link works correctly
 
-<B>Help Link Not Working</B>
+<B>Help Link Not Working</B> (continue)
 
 *) Enter the arguments 10 and 10 and press OK
 
