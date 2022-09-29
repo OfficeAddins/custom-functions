@@ -21,6 +21,8 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Press OK
 
+<img src="images/arguments-dialog-one.png"> 
+
 *) Click on the "Help on this function" link
 
 *) The link works correctly
