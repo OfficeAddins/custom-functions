@@ -9,9 +9,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <B>Help Link Problem</B>
 
-*) Build the project and host the files on an https web server
-
-*) Side load the add-in into Excel
+*) Build the project, upload the files to a https web server and sideload into Excel
 
 *) Select (File > New > Blank workbook)
 
