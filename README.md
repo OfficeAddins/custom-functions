@@ -4,7 +4,7 @@ Excel Office.JS custom function example
 Step by Step Tutorial:
 https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.htm
 
-<img src="/images/screenshot.png"> 
+<img src="/images/screenshot.png" width="500" height="600"> 
 
 
 <B>Help Link Working</B>
@@ -15,13 +15,13 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Select (Formulas > Insert Function)
 
-<img src="images/insert-function-dialog.png"> 
+<img src="images/insert-function-dialog.png" width="500" height="600"> 
 
 *) Select the "CUSTOM.ADDFUNCTION" function
 
 *) Press OK
 
-<img src="images/arguments-dialog-one.png"> 
+<img src="images/arguments-dialog-one.png" width="500" height="600"> 
 
 *) Click on the "Help on this function" link
 
@@ -31,13 +31,13 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Enter the arguments 10 and 10 and press OK
 
-<img src="/images/screenshot.png">
+<img src="/images/screenshot.png" width="500" height="600">
 
 *) Select cell"B2"
 
 *) Select Insert Function on the Formula Bar
 
-<img src="/images/insert-function-bar.png">
+<img src="/images/insert-function-bar.png" width="500" height="600">
 
 *) Click on the "Help on this function" link
 
