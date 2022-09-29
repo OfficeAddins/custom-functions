@@ -39,7 +39,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <img src="/images/insert-function-bar.png" width="817" height="208">
 
-<img src="images/arguments-dialog-one.png" width="792" height="437"> 
+<img src="images/arguments-dialog-two.png" width="792" height="437"> 
 
 *) Click on the "Help on this function" link
 
