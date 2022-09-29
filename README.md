@@ -4,7 +4,7 @@ Excel Office.JS custom function example
 Step by Step Tutorial:
 https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.htm
 
-<img src="/images/screenshot.png" width="815" height="240"> 
+<img src="/images/screenshot.png" width="404" height="120"> 
 
 
 <B>Help Link Working</B>
