@@ -6,6 +6,8 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <img src="/images/screenshot.png" width="404" height="120"> 
 
+<img src="/images/version.png" width="385" height="75"> 
+
 
 <B>Help Link Working</B>
 
