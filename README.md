@@ -38,3 +38,8 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 *) Select Insert Function on the Formula Bar
 
 <img src="/images/insert-function-bar.png">
+
+*) Click on the "Help on this function" link
+
+*) The link does not work and goes to the following URL:
+https://support.microsoft.com/en-us/office/count-function-a59cd7fc-b623-4d93-87a4-d23bf411294c?ns=excel&version=90&syslcid=1033&uilcid=1033&appver=zxl900&helpid=xlmain11.chm60048&ui=en-us&rs=en-us&ad=us
