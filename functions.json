@@ -1,0 +1,33 @@
+{ 
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/office-js/custom-functions.schema.json", 
+    "functions": [ 
+        { 
+            "id": "ID_ADDFUNCTION", 
+            "name": "ADDFUNCTION", 
+            "description": "adds up two numbers", 
+            "helpUrl": "https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.htm", 
+            "parameters": [ 
+                { 
+                    "name": "first", 
+                    "description": "my description", 
+                    "type": "number", 
+                    "dimensionality": "scalar" 
+                }, 
+                { 
+                    "name": "second", 
+                    "description": "my description", 
+                    "type": "number", 
+                    "dimensionality": "scalar" 
+                } 
+            ], 
+            "result": { 
+                "type": "number", 
+                "dimensionality": "scalar" 
+            }, 
+            "options": { 
+                "stream": false, 
+                "cancelable": false 
+            } 
+        } 
+    ] 
+} 
