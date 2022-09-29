@@ -7,7 +7,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 <img src="/images/screenshot.png"> 
 
 
-<B>Help Link Problem</B>
+<B>Help Link Working</B>
 
 *) Build the project, upload the files to a https web server and sideload into Excel
 
@@ -27,3 +27,14 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) The link works correctly
 
+<B>Help Link Not Working</B>
+
+*) Enter the arguments 10 and 10 and press OK
+
+<img src="/images/screenshot.png">
+
+*) Select cell"B2"
+
+*) Select Insert Function on the Formula Bar
+
+<img src="/images/insert-function-bar.png">
