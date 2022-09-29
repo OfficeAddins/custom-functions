@@ -35,7 +35,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <img src="/images/screenshot.png" width="407" height="120"> 
 
-*) Select cell"B2"
+*) Select cell "B2"
 
 *) Select Insert Function on the Formula Bar
 
