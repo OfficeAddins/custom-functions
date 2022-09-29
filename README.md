@@ -15,13 +15,13 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Select (Formulas > Insert Function)
 
-<img src="images/insert-function-dialog.png" width="703" height="591"> 
+<img src="images/insert-function-dialog.png" width="351" height="295"> 
 
 *) Select the "CUSTOM.ADDFUNCTION" function
 
 *) Press OK
 
-<img src="images/arguments-dialog-one.png" width="790" height="433"> 
+<img src="images/arguments-dialog-one.png" width="345" height="216"> 
 
 *) Click on the "Help on this function" link
 
@@ -31,15 +31,15 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Enter the arguments 10 and 10 and press OK
 
-<img src="/images/screenshot.png" width="815" height="240"> 
+<img src="/images/screenshot.png" width="407" height="120"> 
 
 *) Select cell"B2"
 
 *) Select Insert Function on the Formula Bar
 
-<img src="/images/insert-function-bar.png" width="817" height="208">
+<img src="/images/insert-function-bar.png" width="408" height="104">
 
-<img src="images/arguments-dialog-two.png" width="792" height="437"> 
+<img src="images/arguments-dialog-two.png" width="396" height="219"> 
 
 *) Click on the "Help on this function" link
 
