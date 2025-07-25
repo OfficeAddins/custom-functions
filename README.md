@@ -25,6 +25,14 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <img src="images/arguments-dialog-one.png" width="345" height="216"> 
 
+
+
+
+
+
+
+
+
 *) Click on the "Help on this function" link
 
 *) The link works correctly
